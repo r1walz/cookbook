@@ -16,6 +16,10 @@ For example, let's say we want to add 0-1 knapsack then we may add it under `dyn
 
 Yes, we avoid spaces in naming! Use `_`s, please.
 
+## Contributing
+
+A complete contributing guidelines is available [here](CONTRIBUTING.md). Please, carefully go through it before submitting a pull request!
+
 ## License
 
 The work is distributed under the [MIT License](LICENSE).
